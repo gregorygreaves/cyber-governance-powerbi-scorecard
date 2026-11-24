@@ -80,6 +80,8 @@ The semantic model separates **6 Lookup Dimension tables** (`1` side) from **6 F
 ## Repository Contents
 
 ```text
+├── Cyber_Governance_Scorecard.pbix          # Downloadable Power BI Desktop report & data model
+├── data/                                    # Synthetic Star Schema telemetry (6 dim_* & 6 fact_* CSVs)
 ├── Executive Scorecard Dashboard.png
 ├── Executive Scorecard_Year_Expanded.png
 ├── Executive Scorecard_Department_Expanded.png
